@@ -168,6 +168,10 @@ img {
   transition: height .5s ease-in-out;
 }
 
+.logo {
+  height: 4rem;
+}
+
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
