@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Instruções
-subtitle: Segue-as com cuidado
+title: Instructions
+subtitle: Follow them carefully
 ---
 
 ### Exercício 1:
