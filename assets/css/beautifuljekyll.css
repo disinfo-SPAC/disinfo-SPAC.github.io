@@ -931,6 +931,27 @@ pre {
 .gist, .gist-file table tr td {
   border: unset;
 }
+/* --- Buttons --- */
+
+/* Add styles to the button class */
+.my-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Text color */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Add a hover effect */
+.my-button:hover {
+    background-color: #2980b9; /* Button background color on hover */
+}
+
 
 /* --- Social media sharing section --- */
 
