@@ -20,8 +20,8 @@ author: Information and Disinformation
 ###############################################
 
 navbar-links:
-  About SPAC: "aboutme"
   Data Collected: "datacollected"
+  English: "english"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
 
