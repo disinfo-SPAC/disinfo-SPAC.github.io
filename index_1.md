@@ -7,9 +7,10 @@ subtitle: Como navegar num mundo de desinformação?
 * Esta é a parte em que te pedimos para testares os algoritmos dos motores de busca.
 * Queremos que, em pares, testem vários aspectos que podem influenciar os resultados que encontras quando fazes a tua pesquisa no teu motor de busca favorito. As diferenças nos resultados não são só significativas quando os links em si são diferentes, mas também quando a sua ordem é diferente, umas vez que as pessoas tendem a prestar mais atenção aos três primeiros resultados sugeridos!
 * Nota que iremos guardar todos os resultados que te forem sugeridos. Contudo, é ainda mais importante saberes que não vamos guardar qualquer informação pessoal. Se quiseres saber mais sobre exatamente os dados que vamos recolher. Clica no canto superior direito em COLLECTED DATA.
+
 Estão prontos? A tua companhia no outro computador está pronta para começar também?
 
-###Exercício 1:
+Exercício 1:
 
 Abre o <a href="https://www.google.com">Google</a> e pesquisa como normalmente farias (sem dizeres ao teu pareceiro do jogo) sobre as seguintes afirmações:</li>
         <ul>
