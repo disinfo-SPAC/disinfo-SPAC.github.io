@@ -12,16 +12,14 @@ subtitle: Segue-as com cuidado
             <li>A NASA Confirmou Que A Terra Tem Uma Nova Lua</li>
             <p></p>
         </ul>
-    
     <li>Compara os teus com os resultados obtidos no computador do lado. Pesquisaram de formas diferentes, apesar do tópico inicial ser o mesmo?</li>
-
-    <li>Agora pesquisa sobre a seguinte afirmação, outra vez como naturalmente farias se quisesses pesquisar mais informação sobre a mesma: 
+    <p></p>
+    <li>Agora pesquisa sobre a seguinte afirmação, outra vez como naturalmente farias se quisesses pesquisar mais informação sobre a mesma:</li>
         <ul>
             <p></p>
-            <li>Recibos com tinta fácil de apagar contêm substâncias indutoras de cancro e infertilidade segundo um estudo<li>
+            <li>Recibos com tinta fácil de apagar contêm substâncias indutoras de cancro e infertilidade segundo um estudo</li>
             <p></p>
         </ul>
-
     <li>E que tal? Comparem como pesquisar sobre o mesmo tópico de formas diferentes pode conduzir a resultados muito distintos!</li>
 </ol>
 
@@ -45,7 +43,6 @@ subtitle: Segue-as com cuidado
             <p></p>
             <li>ladrão portugal</li>
         </ul>
-
     <li> Agora abre uma janela incógnito neste browser e volta a fazer o mesmo procedimento, escolhendo entre vocês um dos tópicos que vos pedimos para pesquisar.</li>
     <p></p> Os resultados foram diferentes? (Lembra-te que se em qualquer momento tiveres dúvidas podes pedir ajuda a alguém que esteja responsável por esta distribuição.)
 </ol>   
