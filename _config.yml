@@ -20,8 +20,8 @@ author: Information and Disinformation
 ###############################################
 
 navbar-links:
-  Data Collected: "datacollected"
   English: "english"
+  Collected Data: "datacollected"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
 
