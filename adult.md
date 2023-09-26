@@ -51,7 +51,7 @@ subtitle: Segue-as com cuidado
 <ol>
     <li>Agora pedimos-vos que cada um abra um motor de busca diferente. Por exemplo, o <a href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> e o <a href="https://www.bing.com" target="_blank">Bing</a> (em cada computador devem abrir um distinto).</li>
     <li>Façam as mesmas pesquisas que fizeram no <b>Exercício 2</b> (ou só uma delas, se já estiverem cansados).</li>
-    <li>Comparem novamente os resultados. E que tal? Os resultados obtidos em cada motor de busca são diferentes? Quer dizer que a escolha de motor de busca influencia a informação que cada um de n? 
+    <li>Comparem novamente os resultados. E que tal? Os resultados obtidos em cada motor de busca são diferentes? Quer dizer que a escolha de motor de busca influencia a informação que cada um de nós encontra?</li>
 </ol>
 <p>
 Os links que encontramos nos motores de busca são extremamente importantes, porque nós tendemos a ver os resultados dos motores de busca como uma fonte fidedigna de informação. Contudo, como esperamos que tenhas visto nestes exercícios, os resultados que encontramos são influenciados por uma série de aspectos, muitos deles que nós desconhecemos e não conseguimos controlar (como as tuas pesquisas passadas, os teus interesses, aquilo que o algoritmo acha que tu queres ver).</p>

@@ -1,15 +1,20 @@
 ---
 layout: page
 title: Testing the search engines
+subtitle: Are you ready?
 ---
+<p>* This is the part where we ask you to test the search engine algorithms.</p>
+<p>* We are particularly interested in testing search engines because (1) they have received less attention from researchers, and (2) because people tend to place a lot of trust in the results they find in them.</p>
+<p>* In this activity, in pairs, we want you yo test several aspects that can influence the results you get when you query your favorite search engine.</p>
+<p>* The differences in the results you find are significant not only when the links themselves are different, but also when their order is different, since we tend to pay more attention to the first three suggested results!</p>
+<p>* Note that we will save all the results that are suggested to you. However, it's even more important for you to know that we will <b>not save any personal information</b>.  If you want to learn more about the data we will be collecting, click on <a href="https://disinfo-spac.github.io/datacollected">Collected Data</a>.</p>
 
-This is the part where we ask you to test the search engine algorithms.
+<p>Are you ready? Is your partner on the other computer ready as well?</p>
+<div class="button-container">
+    <button class="my-button"><a href="https://disinfo-spac.github.io/adult_en">I am over 18 years old</a></button>
+    <button class="my-button"><a href="https://disinfo-spac.github.io/teen_en">I am under 18 years old</a></button>
+</div>
+<p><center>(Select the same button in both computers)</center></p>
 
-We want you to, in pairs, test various aspects that can influence the results you encounter on your favorite search engine. Note that differences in results are not only differences in the links you find, but also their order. People tend to pay more attention to the first three results retrived by the search engines, therefore, any difference in this order can be higly significant. 
-
-Also note that we will be storing the results that are suggested to you during this activity. However, it's even more important that you know that we will not be storing any personal information. If you want to learn more about the exact data we will be collecting, click on the upper right corner on "DATA COLLECTED."
-
-Are you ready? Is your companion on the other computer ready to start as well? 
-### Exercise 1
 
 

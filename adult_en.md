@@ -4,63 +4,65 @@ title: Instructions
 subtitle: Follow them carefully
 ---
 
-### Exercício 1:
+### Exercise 1:
 <ol>
-    <li>Abre o <a href="https://www.google.com" target="_blank">Google</a> e pesquisa como normalmente farias (sem dizeres ao teu pareceiro do jogo) sobre a seguinte afirmação:</li>
+    <li>Open<a href="https://www.google.com" target="_blank">Google</a> as you normally would (without telling your game partner) for the following statement:</li>
         <ul>
             <p></p>
-            <li><i>"A NASA Confirmou Que A Terra Tem Uma Nova Lua"</i></li>
+            <li><i>"NASA Confirmed That Earth Has A New Moon"</i></li>
             <p></p>
         </ul>
-    <li>Compara os teus com os resultados obtidos no computador do lado. Pesquisaram de formas diferentes, apesar do tópico inicial ser o mesmo?</li>
+    <li>Compare your results with the ones obtained on the computer next to you. Did you both search differently even though the initial topic was the same?</li>
     <p></p>
-    <li>Agora pesquisa sobre a seguinte afirmação, outra vez como naturalmente farias se quisesses pesquisar mais informação sobre a mesma:</li>
+    <li>Now, search for the following statement, again as you naturally would if you wanted to find more information about it:</li>
         <ul>
             <p></p>
-            <li><i>"Recibos com tinta fácil de apagar contêm substâncias indutoras de cancro e infertilidade segundo um estudo"</i></li>
+            <li><i>"Receipts with easily erasable ink contain cancer- and infertility inducing substances, study finds"</i></li>
             <p></p>
         </ul>
-    <li>E que tal? Comparem como pesquisar sobre o mesmo tópico de formas diferentes pode conduzir a resultados muito distintos!</li>
+    <li> What did you find? Compare how searching for the same topic in different ways can lead to very different results!</li>
 </ol>
 
-### Exercício 2 (apenas se em ambos os computadores tiverem conta do Google) :
+### Exercise 2 (only if both of you have Google accounts) :
 <ol>
-    <li>Abre novamente o <a href="https://www.google.com" target="_blank">Google</a></li>
-    <li>Faz log in na tua conta Google</li>
-    <li>Pesquisa por:</li>
+    <li>Open <a href="https://www.google.com" target="_blank">Google</a> again.</li>
+    <li>Log in to your Google account.</li>
+    <li>Search for:</li>
         <ul>
             <p></p>
-            <li>covid mentira</li>
+            <li>covid hoax</li>
             <p></p>
         </ul>
     <p></p>
-    <li>Comparem os resultados e faz o mesmo para as seguintes pesquisas:</li>
+    <li>Compare the results, and do the same for the following searches:</li>
         <ul>
             <p></p>
-            <li>politica hoje</li>
+            <li>politics today</li>
             <p></p>
-            <li>ladrão portugal</li>
+            <li>thief Portugal</li>
         </ul>
     <p></p>
-    <li> Agora abre uma janela incógnito neste browser e volta a fazer o mesmo procedimento, escolhendo entre vocês um dos tópicos que vos pedimos para pesquisar.</li>
+    <li>Now, open an incognito window in this browser and repeat the same procedure, choosing one of the topics we asked you to research.</li>
     <p></p> 
-    <li>Os resultados foram diferentes entre vocês e diferentes do que encontraram anteriormente? (Lembra-te que se em qualquer momento tiveres dúvidas podes pedir ajuda a alguém que esteja responsável por esta exposição.)</li>
-</ol>   
+    <li>Were the results different between you and different from what you found earlier? (Remember that if you have any questions at any time, you can ask someone responsible for this exhibition.)</li>
+</ol>
+  
 
-### Exercício 3:
+### Exercise 3:
 <ol>
-    <li>Agora pedimos-vos que cada um abra um motor de busca diferente. Por exemplo, o <a href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> e o <a href="https://www.bing.com" target="_blank">Bing</a> (em cada computador devem abrir um distinto).</li>
-    <li>Façam as mesmas pesquisas que fizeram no <b>Exercício 2</b> (ou só uma delas, se já estiverem cansados).</li>
-    <li>Comparem novamente os resultados. E que tal? Os resultados obtidos em cada motor de busca são diferentes? Quer dizer que a escolha de motor de busca influencia a informação que cada um de n? 
+    <li>Now, we ask each of you to open a different search engine. For example, use <a href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> and <a href="https://www.bing.com" target="_blank">Bing</a> (on each computer, open a different one).</li>
+    <li>Perform the same searches you did in <b>Exercise 2</b> (or just one of them if you're already tired).</li>
+    <li>Compare the results again. How about that? Are the results obtained in each search engine different? Does it mean that the choice of a search engine influences the information each of you receives?
 </ol>
 <p>
-Os links que encontramos nos motores de busca são extremamente importantes, porque nós tendemos a ver os resultados dos motores de busca como uma fonte fidedigna de informação. Contudo, como esperamos que tenhas visto nestes exercícios, os resultados que encontramos são influenciados por uma série de aspectos, muitos deles que nós desconhecemos e não conseguimos controlar (como as tuas pesquisas passadas, os teus interesses, aquilo que o algoritmo acha que tu queres ver).</p>
+The links we find in search engines are extremely important because we tend to view search engine results as a reliable source of information. However, as we hope you have seen in these exercises, the results we find are influenced by various factors, many of which we are unaware of and cannot control (such as your past searches, your interests, and what the algorithm thinks you want to see).</p>
 <p></p>
-Projectos como este propõem-se a tornar a internet mais democrática, igual, justa e menos invasiva para todos. 
+Projects like this aim to make the internet more democratic, equal, fair, and less invasive for everyone.
 <p></p>
-<p>Obrigada por teres participado e esperemos que tenhas gostado da nossa exposição!<\p>
+<p>Thank you for participating, and we hope you enjoyed our exhibition!</p>
 <p></p>
-<p>Aponta no quadro banco onde achaste que encontraste mais diferenças nos resultados!</p>
+<p>Mark on the board where you found the most differences in the results!</p>
+
 
 
 
