@@ -9,6 +9,7 @@ We want you to, in pairs, test various aspects that can influence the results yo
 
 Also note that we will be storing the results that are suggested to you during this activity. However, it's even more important that you know that we will not be storing any personal information. If you want to learn more about the exact data we will be collecting, click on the upper right corner on "DATA COLLECTED."
 
-### My story
+Are you ready? Is your companion on the other computer ready to start as well? 
+### Exercise 1
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
