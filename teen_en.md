@@ -6,7 +6,7 @@ subtitle: Follow them carefully
 
 ### Exercise 1:
 <ol>
-    <li>Open <a href="https://www.google.com" target="_blank">Google</a> as you normally would (without telling your game partner) for the following statement:</li>
+    <li>Open <a href="https://www.google.com" target="_blank">Google</a> as you normally would for the following statement (without telling your game partner):</li>
         <ul>
             <p></p>
             <li><i>"Normally, candy has more calcium than cheese."</i></li>
