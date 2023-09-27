@@ -58,9 +58,9 @@ Os links que encontramos nos motores de busca são extremamente importantes, por
 <p></p>
 <center>Projectos como este propõem-se a tornar a internet mais democrática, igual, justa e menos invasiva para todos.</center>
 <p></p>
-<p><center>Obrigada por teres participado e esperemos que tenhas gostado da nossa exposição!<center></p>
+<center>Obrigada por teres participado e esperemos que tenhas gostado da nossa exposição!<center>
 <p></p>
-<p><center>Aponta no quadro banco onde achaste que encontraste mais diferenças nos resultados!<center></p>
+<center>Aponta no quadro banco onde achaste que encontraste mais diferenças nos resultados!<center>
 
 
 
