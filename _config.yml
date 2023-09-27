@@ -50,11 +50,11 @@ title-img: /assets/img/logo_white.png
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "https://socialcomplexity.eu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
   twitter: SpacLab
 #  medium: yourname
 #  reddit: yourname
-  linkedin: data-science-and-policy-lab
+  linkedin: "https://www.linkedin.com/company/data-science-and-policy-lab/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
