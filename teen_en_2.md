@@ -9,7 +9,7 @@ subtitle: Follow them carefully
     <li>Open <a href="https://www.google.com" target="_blank">Google</a> as you normally would (without telling your game partner) for the following statement:</li>
         <ul>
             <p></p>
-            <li><i>"NASA Confirmed That Earth Has A New Moon"</i></li>
+            <li><i>"Normally, candy has more calcium than cheese."</i></li>
             <p></p>
         </ul>
     <li>Compare your results with the ones obtained on the computer next to you. Did you both search differently even though the initial topic was the same?</li>
@@ -17,7 +17,7 @@ subtitle: Follow them carefully
     <li>Now, search for the following statement, again as you naturally would if you wanted to find more information about it:</li>
         <ul>
             <p></p>
-            <li><i>"Receipts with easily erasable ink contain cancer- and infertility inducing substances, study finds"</i></li>
+            <li><i>"When a car tire runs over a can and crushes it completely, the atoms are not destroyed."</i></li>
             <p></p>
         </ul>
     <li> What did you find? Compare how searching for the same topic in different ways can lead to very different results!</li>
@@ -30,7 +30,7 @@ subtitle: Follow them carefully
     <li>Search for:</li>
         <ul>
             <p></p>
-            <li>covid hoax</li>
+            <li>period</li>
             <p></p>
         </ul>
     <p></p>

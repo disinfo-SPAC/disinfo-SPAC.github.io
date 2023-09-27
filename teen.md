@@ -9,7 +9,7 @@ subtitle: Segue-as com cuidado
     <li>Abre o <a href="https://www.google.com" target="_blank">Google</a> e pesquisa como normalmente farias (sem dizeres ao teu pareceiro do jogo) sobre a seguinte afirmação:</li>
         <ul>
             <p></p>
-            <li><i>"A NASA Confirmou Que A Terra Tem Uma Nova Lua"</i></li>
+            <li><i>"Normalmente, os doces têm mais cálcio do que o queijo."</i></li>
             <p></p>
         </ul>
     <li>Compara os teus com os resultados obtidos no computador do lado. Pesquisaram de formas diferentes, apesar do tópico inicial ser o mesmo?</li>
@@ -17,7 +17,7 @@ subtitle: Segue-as com cuidado
     <li>Agora pesquisa sobre a seguinte afirmação, outra vez como naturalmente farias se quisesses pesquisar mais informação sobre a mesma:</li>
         <ul>
             <p></p>
-            <li><i>"Recibos com tinta fácil de apagar contêm substâncias indutoras de cancro e infertilidade segundo um estudo"</i></li>
+            <li><i>"Quando um pneu de um carro passa por cima de uma lata e a esmaga completamente, os átomos não são destruídos."</i></li>
             <p></p>
         </ul>
     <li>E que tal? Comparem como pesquisar sobre o mesmo tópico de formas diferentes pode conduzir a resultados muito distintos!</li>
@@ -30,7 +30,7 @@ subtitle: Segue-as com cuidado
     <li>Pesquisa por:</li>
         <ul>
             <p></p>
-            <li>covid mentira</li>
+            <li>periodo</li>
             <p></p>
         </ul>
     <p></p>
