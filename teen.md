@@ -6,13 +6,13 @@ subtitle: Segue-as com cuidado
 
 ### Exercício 1:
 <ol>
-    <li>Abre o <a href="https://www.google.com" target="_blank">Google</a> e pesquisa como normalmente farias (sem dizeres ao teu pareceiro do jogo) sobre a seguinte afirmação:</li>
+    <li>Abre o <a href="https://www.google.com" target="_blank">Google</a> e pesquisa como normalmente farias sobre a seguinte afirmação (sem dizeres ao teu parceiro do jogo):</li>
         <ul>
             <p></p>
             <li><i>"Normalmente, os doces têm mais cálcio do que o queijo."</i></li>
             <p></p>
         </ul>
-    <li>Compara os teus com os resultados obtidos no computador do lado. Pesquisaram de formas diferentes, apesar do tópico inicial ser o mesmo?</li>
+    <li>Compara os teus resultados com os obtidos pelo teu parceiro de jogo. Pesquisaram de formas diferentes, apesar do tópico inicial ser o mesmo?</li>
     <p></p>
     <li>Agora pesquisa sobre a seguinte afirmação, outra vez como naturalmente farias se quisesses pesquisar mais informação sobre a mesma:</li>
         <ul>

@@ -52,7 +52,7 @@ subtitle: Follow them carefully
 <ol>
     <li>Now, we ask each of you to open a different search engine. For example, use <a href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> and <a href="https://www.bing.com" target="_blank">Bing</a> (on each computer, open a different one).</li>
     <li>Perform the same searches you did in <b>Exercise 2</b> (or just one of them if you're already tired).</li>
-    <li>Compare the results again. What did you find? Are the results obtained in each search engine different? Does it mean that the choice of a search engine influences the information one finds?
+    <li>Compare the results again. What did you find? Are the results obtained in each search engine different? Does it mean that the choice of a search engine influences the information one finds?</li>
 </ol>
 <p>
 Search engines results are extremely important because we tend to view them as a reliable source of information. However, as we hope you have learned with these exercises, the results we find are influenced by various factors, many of which we are unaware of and cannot control (such as your past searches, your interests, and what the algorithm thinks you want to see).</p>
@@ -61,7 +61,7 @@ Projects like this aim to make the internet more democratic, equal, fair, and le
 <p></p>
 <p>Thank you for participating, and we hope you enjoyed our exhibition!</p>
 <p></p>
-<p>One last thing: Where did you find the most differences in the results? Leave it in the white board.</p>
+<p>OOne last thing: write down on the whiteboard when you found the biggest differences in the results!</p>
 
 
 

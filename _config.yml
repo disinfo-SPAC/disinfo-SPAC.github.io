@@ -21,6 +21,7 @@ author: Information and Disinformation
 
 navbar-links:
   English: "english"
+  Português: "pt"
   Collected Data: "datacollected"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
