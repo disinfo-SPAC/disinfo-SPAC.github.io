@@ -50,7 +50,7 @@ subtitle: Follow them carefully
 
 ### Exercise 3:
 <ol>
-    <li>Now, we ask each of you to open a different search engine. For example, use <a href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> and <a href="https://www.bing.com" target="_blank">Bing</a> (on each computer, open a different one).</li>
+    <li>Now, we ask each of you to open a different search engine. For example, use <a href="https://html.duckduckgo.com/html/" target="_blank">DuckDuckGo</a> and <a href="https://www.bing.com" target="_blank">Bing</a> (on each computer, open a different one).</li>
     <li>Perform the same searches you did in <b>Exercise 2</b> (or just one of them if you're already tired).</li>
     <li>Compare the results again. What did you find? Are the results obtained in each search engine different? Does it mean that the choice of a search engine influences the information one finds?</li>
 </ol>

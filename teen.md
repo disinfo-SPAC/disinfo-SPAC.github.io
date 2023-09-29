@@ -49,7 +49,7 @@ subtitle: Segue-as com cuidado
 
 ### Exercício 3:
 <ol>
-    <li>Agora pedimos-vos que cada um abra um motor de busca diferente. Por exemplo, o <a href="https://duckduckgo.com" target="_blank">DuckDuckGo</a> e o <a href="https://www.bing.com" target="_blank">Bing</a> (em cada computador devem abrir um distinto).</li>
+    <li>Agora pedimos-vos que cada um abra um motor de busca diferente. Por exemplo, o <a href="https://html.duckduckgo.com/html/" target="_blank">DuckDuckGo</a> e o <a href="https://www.bing.com" target="_blank">Bing</a> (em cada computador devem abrir um distinto).</li>
     <li>Façam as mesmas pesquisas que fizeram no <b>Exercício 2</b> (ou só uma delas, se já estiverem cansados).</li>
     <li>Comparem novamente os resultados. E que tal? Os resultados obtidos em cada motor de busca são diferentes? Quer dizer que a escolha de motor de busca influencia a informação que cada um de nós encontra?</li>
 </ol>
